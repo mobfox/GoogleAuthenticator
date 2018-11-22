@@ -1,5 +1,5 @@
 {
-    "name": "phpgangsta/googleauthenticator",
+    "name": "mobfox/googleauthenticator",
     "description": "Google Authenticator 2-factor authentication",
     "type": "library",
     "keywords": ["GoogleAuthenticator"],
